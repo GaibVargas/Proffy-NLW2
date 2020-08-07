@@ -9,7 +9,7 @@ e que possa, também, anunciar sua disponibilidade de ensino.</p>
 
 <p>O projeto é dividido em três seções:</p>
 <ul>
-  <li>(Server) - Servidor da aplicação</li>
-  <li>(Web) - Frontend web da aplicação</li>
-  <li>(Mobile) - Frontend mobile da aplicação</li>
+  <li><a href="https://github.com/GaibVargas/Proffy-NLW2/tree/master/server">Server</a> - Servidor da aplicação</li>
+  <li><a href="https://github.com/GaibVargas/Proffy-NLW2/tree/master/web">Web</a> - Frontend web da aplicação</li>
+  <li><a href="https://github.com/GaibVargas/Proffy-NLW2/tree/master/mobile">Mobile</a> - Frontend mobile da aplicação</li>
 </ul>
