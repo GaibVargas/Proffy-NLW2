@@ -1,6 +1,6 @@
 <h1>Proffy - Next Level Week 2</h1>
 
-<p>Projeto construído durante a NLW 2 da Rocketseat.</p>
+<p>Projeto construído com <a href="https://www.typescriptlang.org/">Typescript</a> durante a NLW 2 da Rocketseat.</p>
 <p>Proffy é um projeto que conecta professores particulares aos alunos,
 sendo uma plataforma para que o usuário encontre o professor ideal,
 e que possa, também, anunciar sua disponibilidade de ensino.</p>
