@@ -5,6 +5,10 @@
 sendo uma plataforma para que o usuário encontre o professor ideal,
 e que possa, também, anunciar sua disponibilidade de ensino.</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GaibVargas/Proffy-NLW2/master/images/background-web.png" width="80%" />
+ </p>
+
 <h2>Projeto</h2>
 
 <p>O projeto é dividido em três seções:</p>

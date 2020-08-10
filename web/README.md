@@ -1,5 +1,9 @@
 <h1>Proffy - Frontend Web</h1>
 <p>Frontend web do projeto</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GaibVargas/Proffy-NLW2/master/images/background-mobile.jpg" height="500" />
+  <img src="https://raw.githubusercontent.com/GaibVargas/Proffy-NLW2/master/images/filter-mobile.jpg" height="500" />
+</p>
 
 <h2>Tecnologias</h2>
 <ul>
